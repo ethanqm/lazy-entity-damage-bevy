@@ -1,0 +1,371 @@
+Hello, world!
+7v1 was hurt!	50 HP
+17v1 was hurt!	50 HP
+23v1 was hurt!	50 HP
+24v1 was hurt!	50 HP
+28v1 was hurt!	50 HP
+43v1 was hurt!	50 HP
+76v1 was hurt!	50 HP
+78v1 was hurt!	50 HP
+81v1 was hurt!	50 HP
+2v1 was hurt!	50 HP
+29v1 was hurt!	50 HP
+47v1 was hurt!	50 HP
+55v1 was hurt!	50 HP
+69v1 was hurt!	50 HP
+84v1 was hurt!	50 HP
+23v1 was hurt again!	1 HP
+28v1 was hurt again!	1 HP
+43v1 was hurt again!	1 HP
+30v1 was hurt!	50 HP
+34v1 was hurt!	50 HP
+54v1 was hurt!	50 HP
+58v1 was hurt!	50 HP
+92v1 was hurt!	50 HP
+77v1 was hurt!	50 HP
+17v1 was hurt again!	2 HP
+83v1 was hurt!	50 HP
+40v1 was hurt!	50 HP
+51v1 was hurt!	50 HP
+70v1 was hurt!	50 HP
+74v1 was hurt!	50 HP
+2v1 was hurt again!	2 HP
+84v1 was hurt again!	2 HP
+8v1 was hurt!	50 HP
+21v1 was hurt!	50 HP
+94v1 was hurt!	50 HP
+32v1 was hurt!	50 HP
+44v1 was hurt!	50 HP
+49v1 was hurt!	50 HP
+72v1 was hurt!	50 HP
+28v1 was hurt again!	-46 HP
+43v1 was hurt again!	-46 HP
+81v1 was hurt again!	4 HP
+28v1 died!
+43v1 died!
+3v1 was hurt!	50 HP
+95v1 was hurt!	50 HP
+42v1 was hurt!	50 HP
+46v1 was hurt!	50 HP
+52v1 was hurt!	50 HP
+23v1 was hurt again!	-45 HP
+78v1 was hurt again!	5 HP
+29v1 was hurt again!	4 HP
+23v1 died!
+1v1 was hurt!	50 HP
+15v1 was hurt!	50 HP
+85v1 was hurt!	50 HP
+90v1 was hurt!	50 HP
+81v1 was hurt again!	-44 HP
+47v1 was hurt again!	5 HP
+92v1 was hurt again!	4 HP
+51v1 was hurt again!	3 HP
+81v1 died!
+6v1 was hurt!	50 HP
+12v1 was hurt!	50 HP
+22v1 was hurt!	50 HP
+33v1 was hurt!	50 HP
+75v1 was hurt!	50 HP
+49v1 was hurt again!	3 HP
+77v1 was hurt again!	5 HP
+15v1 was hurt again!	1 HP
+85v1 was hurt again!	1 HP
+56v1 was hurt!	50 HP
+18v1 was hurt!	50 HP
+71v1 was hurt!	50 HP
+37v1 was hurt!	50 HP
+61v1 was hurt!	50 HP
+24v1 was hurt again!	8 HP
+72v1 was hurt again!	4 HP
+49v1 was hurt again!	-46 HP
+6v1 was hurt again!	1 HP
+49v1 died!
+60v1 was hurt!	50 HP
+5v1 was hurt!	50 HP
+98v1 was hurt!	50 HP
+9v1 was hurt!	50 HP
+86v1 was hurt!	50 HP
+14v1 was hurt!	50 HP
+19v1 was hurt!	50 HP
+20v1 was hurt!	50 HP
+91v1 was hurt!	50 HP
+17v1 was hurt again!	-41 HP
+54v1 was hurt again!	7 HP
+74v1 was hurt again!	6 HP
+44v1 was hurt again!	5 HP
+46v1 was hurt again!	4 HP
+1v1 was hurt again!	3 HP
+75v1 was hurt again!	2 HP
+56v1 was hurt again!	1 HP
+17v1 died!
+66v1 was hurt!	50 HP
+97v1 was hurt!	50 HP
+53v1 was hurt!	50 HP
+24v1 was hurt again!	-40 HP
+2v1 was hurt again!	-41 HP
+70v1 was hurt again!	7 HP
+9v1 was hurt again!	1 HP
+24v1 died!
+2v1 died!
+65v1 was hurt!	50 HP
+4v1 was hurt!	50 HP
+11v1 was hurt!	50 HP
+27v1 was hurt!	50 HP
+72v1 was hurt again!	-43 HP
+58v1 was hurt again!	9 HP
+92v1 was hurt again!	-41 HP
+72v1 died!
+92v1 died!
+7v1 was hurt again!	12 HP
+58v1 was hurt again!	-40 HP
+70v1 was hurt again!	-41 HP
+60v1 was hurt again!	3 HP
+86v1 was hurt again!	3 HP
+19v1 was hurt again!	3 HP
+66v1 was hurt again!	2 HP
+4v1 was hurt again!	1 HP
+58v1 died!
+70v1 died!
+35v1 was hurt!	50 HP
+93v1 was hurt!	50 HP
+7v1 was hurt again!	-37 HP
+54v1 was hurt again!	-39 HP
+77v1 was hurt again!	-39 HP
+12v1 was hurt again!	6 HP
+7v1 died!
+54v1 died!
+77v1 died!
+89v1 was hurt!	50 HP
+50v1 was hurt!	50 HP
+27v1 was hurt again!	3 HP
+66v1 was hurt again!	-46 HP
+66v1 died!
+62v1 was hurt!	50 HP
+59v1 was hurt!	50 HP
+93v1 was hurt again!	2 HP
+35v1 was hurt again!	2 HP
+94v1 was hurt again!	11 HP
+18v1 was hurt again!	7 HP
+36v1 was hurt!	50 HP
+31v1 was hurt!	50 HP
+30v1 was hurt again!	14 HP
+74v1 was hurt again!	-37 HP
+8v1 was hurt again!	12 HP
+75v1 was hurt again!	-41 HP
+74v1 died!
+75v1 died!
+47v1 was hurt again!	-34 HP
+59v1 was hurt again!	2 HP
+47v1 died!
+80v1 was hurt!	50 HP
+25v1 was hurt!	50 HP
+59v1 was hurt again!	-47 HP
+84v1 was hurt again!	-33 HP
+4v1 was hurt again!	-43 HP
+83v1 was hurt again!	15 HP
+3v1 was hurt again!	13 HP
+59v1 died!
+84v1 died!
+4v1 died!
+38v1 was hurt!	50 HP
+10v1 was hurt!	50 HP
+13v1 was hurt!	50 HP
+27v1 was hurt again!	-42 HP
+97v1 was hurt again!	9 HP
+55v1 was hurt again!	18 HP
+30v1 was hurt again!	-33 HP
+44v1 was hurt again!	-35 HP
+9v1 was hurt again!	-40 HP
+27v1 died!
+30v1 died!
+44v1 died!
+9v1 died!
+26v1 was hurt!	50 HP
+73v1 was hurt!	50 HP
+87v1 was hurt!	50 HP
+62v1 was hurt again!	5 HP
+40v1 was hurt again!	17 HP
+32v1 was hurt again!	16 HP
+1v1 was hurt again!	-36 HP
+37v1 was hurt again!	12 HP
+1v1 died!
+93v1 was hurt again!	-42 HP
+76v1 was hurt again!	21 HP
+97v1 was hurt again!	-39 HP
+55v1 was hurt again!	-30 HP
+40v1 was hurt again!	-32 HP
+3v1 was hurt again!	-34 HP
+37v1 was hurt again!	-37 HP
+93v1 died!
+97v1 died!
+55v1 died!
+40v1 died!
+3v1 died!
+37v1 died!
+76v1 was hurt again!	-28 HP
+25v1 was hurt again!	4 HP
+56v1 was hurt again!	-36 HP
+89v1 was hurt again!	8 HP
+76v1 died!
+56v1 died!
+45v1 was hurt!	50 HP
+32v1 was hurt again!	-31 HP
+95v1 was hurt again!	18 HP
+12v1 was hurt again!	-34 HP
+32v1 died!
+12v1 died!
+48v1 was hurt!	50 HP
+57v1 was hurt!	50 HP
+53v1 was hurt again!	14 HP
+62v1 was hurt again!	-41 HP
+51v1 was hurt again!	-29 HP
+87v1 was hurt again!	4 HP
+71v1 was hurt again!	16 HP
+60v1 was hurt again!	-35 HP
+62v1 died!
+51v1 died!
+60v1 died!
+0v1 was hurt!	50 HP
+91v1 was hurt again!	16 HP
+52v1 was hurt again!	20 HP
+69v1 was hurt again!	24 HP
+48v1 was hurt again!	1 HP
+31v1 was hurt again!	9 HP
+38v1 was hurt again!	6 HP
+36v1 was hurt again!	9 HP
+64v1 was hurt!	50 HP
+96v1 was hurt!	50 HP
+88v1 was hurt!	50 HP
+69v1 was hurt again!	-25 HP
+69v1 died!
+39v1 was hurt!	50 HP
+25v1 was hurt again!	-41 HP
+20v1 was hurt again!	18 HP
+98v1 was hurt again!	18 HP
+25v1 died!
+73v1 was hurt again!	8 HP
+13v1 was hurt again!	9 HP
+10v1 was hurt again!	9 HP
+33v1 was hurt again!	21 HP
+86v1 was hurt again!	-31 HP
+86v1 died!
+13v1 was hurt again!	-40 HP
+61v1 was hurt again!	21 HP
+90v1 was hurt again!	23 HP
+11v1 was hurt again!	18 HP
+50v1 was hurt again!	15 HP
+38v1 was hurt again!	-40 HP
+87v1 was hurt again!	-41 HP
+13v1 died!
+38v1 died!
+87v1 died!
+67v1 was hurt!	50 HP
+52v1 was hurt again!	-25 HP
+29v1 was hurt again!	-21 HP
+34v1 was hurt again!	28 HP
+14v1 was hurt again!	21 HP
+95v1 was hurt again!	-25 HP
+85v1 was hurt again!	-26 HP
+0v1 was hurt again!	5 HP
+52v1 died!
+29v1 died!
+95v1 died!
+85v1 died!
+82v1 was hurt!	50 HP
+34v1 was hurt again!	-21 HP
+14v1 was hurt again!	-28 HP
+34v1 died!
+14v1 died!
+68v1 was hurt!	50 HP
+80v1 was hurt again!	14 HP
+48v1 was hurt again!	-42 HP
+94v1 was hurt again!	-22 HP
+45v1 was hurt again!	9 HP
+48v1 died!
+94v1 died!
+83v1 was hurt again!	-20 HP
+19v1 was hurt again!	-26 HP
+83v1 died!
+19v1 died!
+67v1 was hurt again!	4 HP
+61v1 was hurt again!	-24 HP
+57v1 was hurt again!	10 HP
+61v1 died!
+53v1 was hurt again!	-25 HP
+10v1 was hurt again!	-34 HP
+53v1 died!
+10v1 died!
+78v1 was hurt again!	-14 HP
+71v1 was hurt again!	-22 HP
+35v1 was hurt again!	-27 HP
+50v1 was hurt again!	-28 HP
+78v1 died!
+71v1 died!
+35v1 died!
+50v1 died!
+36v1 was hurt again!	-29 HP
+57v1 was hurt again!	-37 HP
+36v1 died!
+57v1 died!
+73v1 was hurt again!	-32 HP
+39v1 was hurt again!	11 HP
+80v1 was hurt again!	-30 HP
+65v1 was hurt again!	27 HP
+73v1 died!
+80v1 died!
+39v1 was hurt again!	-38 HP
+21v1 was hurt again!	35 HP
+39v1 died!
+64v1 was hurt again!	14 HP
+41v1 was hurt!	50 HP
+88v1 was hurt again!	15 HP
+15v1 was hurt again!	-14 HP
+42v1 was hurt again!	37 HP
+5v1 was hurt again!	33 HP
+15v1 died!
+63v1 was hurt!	50 HP
+16v1 was hurt!	50 HP
+46v1 was hurt again!	-11 HP
+88v1 was hurt again!	-32 HP
+46v1 died!
+88v1 died!
+90v1 was hurt again!	-11 HP
+20v1 was hurt again!	-14 HP
+98v1 was hurt again!	-14 HP
+90v1 died!
+20v1 died!
+98v1 died!
+82v1 was hurt again!	15 HP
+22v1 was hurt again!	41 HP
+67v1 was hurt again!	-32 HP
+67v1 died!
+64v1 was hurt again!	-27 HP
+21v1 was hurt again!	-5 HP
+5v1 was hurt again!	-10 HP
+64v1 died!
+21v1 died!
+5v1 died!
+41v1 was hurt again!	9 HP
+11v1 was hurt again!	-11 HP
+11v1 died!
+63v1 was hurt again!	8 HP
+42v1 was hurt again!	-4 HP
+42v1 died!
+6v1 was hurt again!	-3 HP
+96v1 was hurt again!	28 HP
+31v1 was hurt again!	-12 HP
+63v1 was hurt again!	-39 HP
+6v1 died!
+31v1 died!
+63v1 died!
+8v1 was hurt again!	1 HP
+91v1 was hurt again!	-3 HP
+91v1 died!
+41v1 was hurt again!	-33 HP
+41v1 died!
+79v1 was hurt!	50 HP
+82v1 was hurt again!	-20 HP
+18v1 was hurt again!	3 HP
+0v1 was hurt again!	-14 HP
+82v1 died!
+0v1 died!
