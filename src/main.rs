@@ -54,17 +54,17 @@ fn health_regen_update(
                 h.value += 1;
                 // damage for this entity reported
                 if es.contains(&e) {
-                    h.value -= 50;
+                    h.value -= 10;
                     println!("{:?} was hurt again!\t{} HP", e, h.value);
                 }
             }
             (e, None) => {
                 if es.contains(&e) {
                     commands.entity(e).insert(Health {
-                        value: 50,
+                        value: 90,
                         max: 100,
                     });
-                    println!("{:?} was hurt!\t{} HP", e, 50);
+                    println!("{:?} was hurt!\t{} HP", e, 90);
                 }
             }
         }
